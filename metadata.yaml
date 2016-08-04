@@ -1,0 +1,29 @@
+_repo: The-Life-of-Me--An-Autobiography_542
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Johnson, Clarence Edgar
+    birthdate: 1906
+    deathdate: 1994
+    gutenberg_agent_id: '277'
+    url: http://www.gutenberg.org/2009/agents/277
+description: ''
+gutenberg_bookshelf: Biographies
+gutenberg_issued: '1996-05-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '542'
+language: en
+publisher: Project Gutenberg
+rights: Copyrighted. Read the copyright notice inside this book for details.
+rights_url: ''
+subjects:
+- !lcsh 'Fisher County (Tex.) -- History'
+- !lcsh 'Fisher County (Tex.) -- Biography'
+- !lcsh 'Johnson, Clarence Edgar, 1906-1994'
+- !lcc 'F350.5'
+- !lcc 'CT'
+- !lcsh 'Johnson family'
+- GITenberg
+title: 'The Life of Me: An Autobiography'
+url: http://www.gutenberg.org/ebooks/542
