@@ -1,5 +1,8 @@
 _repo: The-Life-of-Me--An-Autobiography_542
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Johnson, Clarence Edgar
@@ -8,6 +11,8 @@ creator:
     gutenberg_agent_id: '277'
     url: http://www.gutenberg.org/2009/agents/277
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/542#The-Life-of-Me--An-Autobiography
 gutenberg_bookshelf: Biographies
 gutenberg_issued: '1996-05-01'
 gutenberg_type: Text
